@@ -7,12 +7,12 @@ my notes for the holy roadmap
 
 ## 📦 DevOps & Deployment
 
-- [ ] **Docker**
-  - [ ] Understand containers vs. VMs
-  - [ ] Write Dockerfiles for Python/Django apps
-  - [ ] Work with volumes, networks, and logs
-  - [ ] Use `docker-compose` for multi-service setups
-  - [ ] Optimize Docker images (layers, base images)
+- [x] **Docker**
+  - [x] Understand containers vs. VMs
+  - [x] Write Dockerfiles for Python/Django apps
+  - [x] Work with volumes, networks, and logs
+  - [x] Use `docker-compose` for multi-service setups
+  - [x] Optimize Docker images (layers, base images)
 
 - [ ] **Kubernetes**
   - [ ] Learn Pods, Deployments, Services, ConfigMaps, Secrets
